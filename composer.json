@@ -1,0 +1,15 @@
+{
+  "name": "markocupic/contao-component-awesomplete",
+  "type": "contao-component",
+  "description": "Awesomplete integration for Contao Open Source CMS",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Marko Cupic",
+      "homepage": "https://github.com/markocupic"
+    }
+  ],
+  "require": {
+    "contao-components/installer": "^1.0.9"
+  }
+}
